@@ -1,3 +1,4 @@
+status : 작성중
 ## 대구 교통사고 피해 예측 AI 경진대회
 [대구 교통사고 피해 예측 AI 경진대회](https://dacon.io/competitions/official/236193/overview/description)
 
